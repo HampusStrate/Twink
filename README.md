@@ -1,3 +1,4 @@
 # Twink
 ## Blogg application created with Django framework
-Twink is a place for gamer communitys to come togheter and ask questions and post about their lives to give every one updates on their lives.
+Twink is the place for gamers to interact with each other with posts and comments about how the play a game.
+
